@@ -27,8 +27,8 @@ Show step 8 in bar chart
 
 Print skills one by one and how many each repeated and order the output to find out the most important skills required?
 
-#Technoligies: 1- Spark 2- Smile 3- Spring
+#Technoligies: 1- Spark 2- Smile 3- Spring 4- TableSaw 5- Xchart
 
-Team: 1- Mahmoud Elhemaly 2- Mohamed Ashraf 3- Hady El Maddah
+Team: 1- Mohamed Ashraf 2- Mahmoud Elhemaly 3- Hady El Maddah
 
 Wuzzuf jobs in Egypt data set at Kaggle https://www.kaggle.com/omarhanyy/wuzzuf-jobs
